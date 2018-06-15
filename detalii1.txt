@@ -1,0 +1,10 @@
+Componente robot comnadat prin Bluetooth
+-Placa de dezvoltare Arduino Mega 2560 
+-Telefon cu sistem de operare Android
+-Sursa de alimentare 
+-Modul  Bluetooth
+-Driver motoare L298N
+-4 motoare
+-Senzor ultrasonic de distanta
+-Placa Breadboard
+-Fire de legatura
